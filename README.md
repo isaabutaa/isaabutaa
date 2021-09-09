@@ -1,6 +1,10 @@
-### Hi :smile:
+### Hi :v::smile:
 
-I'm Isa, a web developer kicking it on the East Coast. I've got skills :point_down:
+My name is Isa, and I am a software developer kicking it on the East Coast, USA. Below, you can see some of the projects that I've built in my pinned repositories section.
+
+Recently, I had the opportunity to complete a mentorship program at [The Collab Lab](https://the-collab-lab.codes) where I was a member of a distributed software development team for 8 weeks, building a shopping list [app](https://tcl-28-shopping-list.web.app). It was a new experience, mainly because our team had to _really_ be on top of commmunicating well with each other, especially since this was a 100% remote project. I gained a new level of understanding on how to collaborate with GitHub, create pull requests, write helpful code reviews, and merge branches to main. I know I still have a lot to learn on my journey as a software developer — and that's part of why I love this industry — but at the same time, I feel very confident that I could fit well on any software development team that has a culture of collaboration and respect. 
+
+Here are some of my skills that represent the tools and frameworks I've worked with to build projects. :point_down:
 
 - [x] JavaScript
 - [x] HTML, CSS
@@ -9,11 +13,14 @@ I'm Isa, a web developer kicking it on the East Coast. I've got skills :point_do
 - [x] Express.js
 - [x] MongoDB
 - [x] Mongoose
+- [x] Firebase
+- [x] Material-UI
 
-I'm excited to continue my journey as a developer and hope to be able to contribute something substantive and positive to the world. Learn more about me here:
+My hope as a software developer is to be able to contribute something meaningful and helpful to others. As I gain more experience and knowledge, I would really like to help educate others on how they can start their own journey in tech. You can learn more about me here:
 
-- [LinkedIn](http://linkedin.com/in/isa-abutaa)
-- [Portfolio](http://isa-abutaa.netlify.app)
+[LinkedIn](http://linkedin.com/in/isa-abutaa)
+
+Portfolio coming soon!
 
 <!--
 **isaabutaa/isaabutaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
