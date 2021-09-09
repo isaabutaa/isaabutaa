@@ -18,7 +18,7 @@ Here are some of my skills that represent the tools and frameworks I've worked w
 
 My hope as a software developer is to be able to contribute something meaningful and helpful to others. As I gain more experience and knowledge, I would really like to help educate others on how they can start their own journey in tech. You can learn more about me here:
 
-[LinkedIn](http://linkedin.com/in/isa-abutaa)
+### [LinkedIn](http://linkedin.com/in/isa-abutaa)
 
 Portfolio coming soon!
 
