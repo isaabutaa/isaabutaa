@@ -22,7 +22,7 @@ My hope as a software developer is to be able to contribute something meaningful
 
 Portfolio coming soon!
 
-And just for kicks, here is a picture I took of a couple of my mom's cats at home: Thor & Romeo 😻
+Thor & Romeo 😻:point_down:
 
 <img src="https://user-images.githubusercontent.com/56979810/132724067-ed5c3b45-d561-4cc4-b013-e62a4688dcd1.JPG" alt="" width="350" />
 
